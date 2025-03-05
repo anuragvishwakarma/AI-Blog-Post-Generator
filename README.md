@@ -1,4 +1,4 @@
-# ai-blog-generator
+# Ai-blog-generator
 # AI Blog Generation Workflow with Qwen-2.5-32b and LangGraph
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
@@ -11,7 +11,7 @@ An intelligent blog generation system that creates SEO-optimized content from ke
 - **Keyword to Titles**: Generate 4 blog title options from any topic keyword
 - **AI Content Creation**: Produce 1500+ word blog posts with proper Markdown formatting
 - **Interactive Workflow**: User-friendly interface with title selection
-- **Download Ready**: Direct Markdown download option
+- **Download Ready**: Direct Markdown download option available
 - **State Management**: Maintains context through LangGraph and Streamlit session states
 - **Error Handling**: Robust error recovery and user feedback
 ## Execute
